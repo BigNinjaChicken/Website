@@ -1,0 +1,9 @@
+.hoverOutline :hover {
+    box-shadow: #46887a 0px 10px 40px -10px;
+    
+}
+
+.hoverOutlineNegate :hover {
+    box-shadow: 1px 1px 1px rgba(255, 0, 0, 0);
+    
+}
