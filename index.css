@@ -1,15 +1,30 @@
-.bg-img { 
-    background-image: url(Dino.jpg) ;
+.bg-img {
+    background-image: url(Dino.jpg);
     background-position: center center;
-    background-repeat:  no-repeat;
+    background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:  cover;
+    background-size: cover;
     background-color: #999;
 
 }
 
 .img-responsive {
-    display: block; 
+    display: block;
     max-width: 100%;
     height: auto;
- } 
+}
+
+body {
+    background-color: dark;
+    height: 100vh;
+}
+
+hr.dotted {
+    border-top: 3px dotted rgb(255, 255, 255);
+    background: transparent;
+}
+
+.link-line {
+    text-decoration: underline;
+    text-decoration-color: rgb(80, 76, 186);
+}

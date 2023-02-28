@@ -7,3 +7,8 @@ hr.dotted {
     border-top: 3px dotted rgb(255, 255, 255);
     background: transparent;
 }
+
+.link-line {
+    text-decoration: underline;
+    text-decoration-color: rgb(80, 76, 186);
+}
