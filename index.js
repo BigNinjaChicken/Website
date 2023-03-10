@@ -21,5 +21,5 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // call the changeBgImg function every 5 seconds
-    setInterval(changeBgImg, 3000);
+    setInterval(changeBgImg, 5500);
   });
